@@ -1,0 +1,16 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    row-gap: 10px;
+    column-gap: 1%;
+    margin: 50px 0px;
+    width: 1152px;
+}
+
+.item{
+    width: 24%;
+    height: 26%;
+    // margin-right: auto;
+}
